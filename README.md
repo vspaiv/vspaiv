@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello There! 👋👋
+
+Welcome to my Git Hub repo, you may found some of my studies here, feel free to explore 🤓
+
+What i've been up to lately: 
+🐧 Currently studying - Shell Scripting
+☁ Cloud Computing - Azure
 
 <!--
 **vspaiv/vspaiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
