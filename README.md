@@ -3,8 +3,12 @@
 Welcome to my Git Hub repo, you may found some of my studies here, feel free to explore 🤓
 
 What i've been up to lately: 
-🐧 Currently studying - Shell Scripting
+🐧 Currently studying - Shell Scripting (focused on Linux and infra scripts)
 ☁ Cloud Computing - Azure
+
+💬 Developing and testing new APIs
+  🔭  Observability integration scripts for dynatrace, Elastic and Grafana:
+  🔭  - Logging, Collecting telemetry and Parsing
 
 <!--
 **vspaiv/vspaiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
